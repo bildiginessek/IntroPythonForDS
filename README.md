@@ -16,7 +16,8 @@ Questo repository contiene il materiale originale del corso di Python per DSR, o
 
 ## Intro in Cherokee
 ᎯᎠ ᎡᏆ ᎣᏍᏓ ᎨᏒ, ᎬᏂᎨᏒ ᎢᏧᏩᏁᏗᏱ ᎬᏂᎨᏒ ᏅᏓᏍᎩᏴᏁᎵ.
-
+## Intro in Turkish
+Bu repo öğretim materyalleri taşımaktadır.
 ## Table of contents
 
 * [About Me](#about-me)
