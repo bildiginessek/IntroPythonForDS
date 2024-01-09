@@ -1,5 +1,7 @@
-# Intro to Python For Data Science
+THIS LINE HAS CHANGED!!!!
 
+# Intro to Python For Data Science
+#bla
 
 ## Intro in English
 This big repo contains the teaching material for the Introduction to Python (and useful libraries) masterclass at the [Data Science Retreat](http://datascienceretreat.com/), it does not cover Pandas.
@@ -11,9 +13,11 @@ Tämä repo sisältää Suomalaisen version....This big repo contains the teachi
 # some other change that will cause conflicts
 here it is
 
+# new change
+blablabla
+
 ## Intro in italian
 Questo repository contiene il materiale originale del corso di Python per DSR, ora esperimenti su git.
-
 ## Intro in Cherokee
 ᎯᎠ ᎡᏆ ᎣᏍᏓ ᎨᏒ, ᎬᏂᎨᏒ ᎢᏧᏩᏁᏗᏱ ᎬᏂᎨᏒ ᏅᏓᏍᎩᏴᏁᎵ.
 ## Intro in Turkish
